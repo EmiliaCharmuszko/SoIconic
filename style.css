@@ -1,0 +1,327 @@
+body{
+    background: #F6D4E2;
+    position: relative;
+    width: 100%; 
+    margin:auto;
+    min-width:600px;
+    max-width:2000px
+}
+
+.content {
+    max-width: 500px;
+    margin: auto;
+}
+header{
+    #ps{
+        position: absolute;
+        width: 180px;
+        height: 82px;
+        left: 550px;
+        top: 0px;
+    
+        font-family: 'Italiana';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 82px;
+        line-height: 151px;
+    
+        color: #000000;
+    }
+    
+    #zdj1{
+        position: absolute;
+        left: 700px;
+        top: 20px;
+    
+        background: url(imaage.png);
+        transform: rotate(0deg);
+    }
+    
+    #ds{
+        position: absolute;
+        width: 365px;
+        height: 82px;
+        right: 650px;
+        top: 0px;
+    
+        font-family: 'Italiana';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 82px;
+        line-height: 151px;
+    
+        color: #000000;
+    }
+
+    #line1{
+        position: absolute;
+        width: 1000px;
+        height: 0px;
+        left: 600px;
+        top: 250px;
+    }
+    
+    #line2{
+        position: absolute;
+        width: 349px;
+        height: 0px;
+        left: 150px;
+        top: 141px;
+    }
+    
+    #line3{
+        position: absolute;
+        width: 303px;
+        height: 0px;
+        right: 150px;
+        top: 141.25px;
+    }
+}
+
+main{
+    #zdj2{
+        position: fixed;
+        
+        left: 0px;
+        top: 0px;
+    
+        background: url(image.png);
+    }
+    
+    #zdj3{
+        position: fixed;
+        
+        right: 0px;
+        top: 0px;
+        justify-content: flex-end;
+    
+        background: url(image.png);
+    }
+    
+}
+article{
+    #nap0{
+        position: absolute;
+        width: 283px;
+        height: 42px;
+        left: 900px;
+        top: 287px;
+
+        font-family: 'Bodoni Moda';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 42px;
+        line-height: 73px;
+
+        color: #000000;
+    }
+    
+    #fig{
+        position: absolute;
+        width: 600px;
+        height: 67.23px;
+        left: 750px;
+        top: 340px;
+    }
+    
+    #zdj4{
+        position: absolute;
+        width: 200px;
+        height: 200px;
+        left: 450px;
+        top: 700px;
+    
+        background: url(image.png);
+        border-radius: 100px;
+    }
+    
+    #nap1{
+        position: absolute;
+        left: 450px;
+        top: 870px;
+    
+        font-family: 'Italiana';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 25px;
+        line-height: 38px;
+    
+        color: #000000;
+    }
+    
+    #zdj5{
+        position: absolute;
+        width: 200px;
+        height: 200px;
+        left: 900px;
+        top: 700px;
+    
+        background: url(image.png);
+        border-radius: 100px;
+    }
+    
+    #nap2{
+        position: absolute;
+        left: 940px;
+        top: 870px;
+    
+        font-family: 'Italiana';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 25px;
+        line-height: 38px;
+    
+        color: #000000;
+    }
+    
+    #zdj6{
+        position: absolute;
+        width: 200px;
+        height: 200px;
+        right: 450px;
+        top: 700px;
+    
+        background: url(image.png);
+        border-radius: 100px;
+    }
+    
+    #nap3{
+        position: absolute;
+        right: 500px;
+        top: 870px;
+    
+        font-family: 'Italiana';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 25px;
+        line-height: 38px;
+    
+        color: #000000;
+    }
+    
+    #zdj7{
+        position: absolute;
+        width: 200px;
+        height: 200px;
+        left: 900px;
+        top: 440px;
+    
+        background: url(image.png);
+        border-radius: 100px;
+    }
+    
+    #nap4{
+        position: absolute;
+        
+        left: 930px;
+        top: 600px;
+    
+        font-family: 'Italiana';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 25px;
+        line-height: 38px;
+    
+        color: #000000;
+    
+    }
+    
+    #zdj8{
+        position: absolute;
+        width: 200px;
+        height: 200px;
+        left: 450px;
+        top: 440px;
+    
+        background: url(image.png);
+        border-radius: 100px;
+    }
+    
+    #nap5{
+        position: absolute;
+        left: 470px;
+        top: 600px;
+    
+        font-family: 'Italiana';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 25px;
+        line-height: 38px;
+    
+        color: #000000;
+    }
+    
+    #zdj9{
+        position: absolute;
+        width: 200px;
+        height: 200px;
+        right: 450px;
+        top: 440px;
+    
+        background: url(image.png);
+        border-radius: 100px;
+    }
+    
+    #nap6{
+        position: absolute;
+        right: 480px;
+        top: 600px;
+    
+        font-family: 'Italiana';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 25px;
+        line-height: 38px;
+    
+        color: #000000;
+    }
+    
+
+}
+
+footer{
+    
+    #zdj10{
+        
+        justify-content: center;
+        align-items: flex-end;
+        position: absolute;
+        width: 97.5px;
+        height: 100px;
+        left: 900px;
+        top: 1025px;
+    
+        background: url(image.png);
+        border-radius: 100px;
+    }
+    #nap7{
+        
+        justify-content: center;
+        align-items: flex-end;
+        position: absolute;
+        width: 156px;
+        height: 48px;
+        left: 1000px;
+        top: 1025px;
+    
+        font-family: 'Dongle';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 70px;
+    
+        color: #000000;
+    }
+    #line4{
+        
+        justify-content: center;
+        align-items: flex-end;
+        position: relative;
+        margin-bottom: auto;
+        width: 842px;
+        height: 0px;
+        left: 600px;
+        top: 1000px;
+    }
+}
+
